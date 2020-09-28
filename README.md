@@ -8,6 +8,7 @@
 <li>Top Interview Questions - OOPS</li>
 <li>Top Interview Questions - Git version Control</li>
 <li>Internship Experience - GeeksforGeeks</li>
+<li>Internship Experience - Devslane</li>
 <li>Major Project Description - Realtime Chat Application</li>
 <li>Mini Project Description - COVID-19 Tracker</li>
 <li>Mini Project Description - Diff Checker</li>
